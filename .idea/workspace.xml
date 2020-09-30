@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8ae95ee-872d-4e88-9748-347a36d16428" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hk2x7uneFmMJi6M7aP3ZHpyEjy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magic_8" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8ae95ee-872d-4e88-9748-347a36d16428" name="Default Changelist" comment="" />
+      <created>1600541012495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600541012495</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="105" key="FileChooserDialogImpl" timestamp="1600541096317">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="326" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1600541096317" />
+    <state x="219" y="63" key="NewModule_or_Project.wizard" timestamp="1600541146996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="219" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1600541146996" />
+  </component>
+</project>
